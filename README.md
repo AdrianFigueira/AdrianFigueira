@@ -3,11 +3,10 @@
  <div>
    <a href="https://github.com/AdrianFigueira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianFigueira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="230em" src="https://art.pixilart.com/37526e433c14691.png"/>
-    <br>
    <img height="200em" src="https://art.pixilart.com/sr2b103ce5856ea.png"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianFigueira&layout=compact&langs_count=6&theme=midnight-purple"/>
+    <br>
    <img height="180em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6005ee23-9326-4cd5-8e0e-0f0416990930/despmjd-89e43a73-e435-445c-a7f2-263a4aac5db8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwMDVlZTIzLTkzMjYtNGNkNS04ZTBlLTBmMDQxNjk5MDkzMFwvZGVzcG1qZC04OWU0M2E3My1lNDM1LTQ0NWMtYTdmMi0yNjNhNGFhYzVkYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ohvIPWULgSBwuVPaFp4oxDeKMqOdtANoCuygf_WzkM"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianFigueira&layout=compact&langs_count=6&theme=midnight-purple"/
 </div>
     
 <br>
